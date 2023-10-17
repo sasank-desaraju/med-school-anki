@@ -15,7 +15,7 @@ Markdown files for medical school that can turn into Anki cards
 
 ### This repository
 
-- Markdown files of Anki cards in the appropriate folder (e.g. Genetics/Week 1/DNA.md)
+- Markdown files of Anki cards in the appropriate folder (e.g. Genetics/Week_1/DNA.md)
 - Images used in the markdown files in one giant pile in the /img directory
     - Please use .gif format since these files tend to be smaller (better compression)
     - Since the images will be in one giant piles, please name the image files descriptively when you add them
